@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\NotifUNISKAWebChanged\NotifUNISKAWebChanged\bin\Debug\NotifUNISKAWebChanged.exe.config
+C:\Users\Asus\source\repos\NotifUNISKAWebChanged\NotifUNISKAWebChanged\bin\Debug\NotifUNISKAWebChanged.exe
+C:\Users\Asus\source\repos\NotifUNISKAWebChanged\NotifUNISKAWebChanged\bin\Debug\NotifUNISKAWebChanged.pdb
+C:\Users\Asus\source\repos\NotifUNISKAWebChanged\NotifUNISKAWebChanged\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Asus\source\repos\NotifUNISKAWebChanged\NotifUNISKAWebChanged\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Asus\source\repos\NotifUNISKAWebChanged\NotifUNISKAWebChanged\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Asus\source\repos\NotifUNISKAWebChanged\NotifUNISKAWebChanged\obj\Debug\NotifUNISKAWebChanged.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\NotifUNISKAWebChanged\NotifUNISKAWebChanged\obj\Debug\NotifUNISKAWebChanged.Properties.Resources.resources
+C:\Users\Asus\source\repos\NotifUNISKAWebChanged\NotifUNISKAWebChanged\obj\Debug\NotifUNISKAWebChanged.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\NotifUNISKAWebChanged\NotifUNISKAWebChanged\obj\Debug\NotifUNISKAWebChanged.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\NotifUNISKAWebChanged\NotifUNISKAWebChanged\obj\Debug\NotifUNISKAWebChanged.csproj.CopyComplete
+C:\Users\Asus\source\repos\NotifUNISKAWebChanged\NotifUNISKAWebChanged\obj\Debug\NotifUNISKAWebChanged.exe
+C:\Users\Asus\source\repos\NotifUNISKAWebChanged\NotifUNISKAWebChanged\obj\Debug\NotifUNISKAWebChanged.pdb
+C:\Users\Asus\source\repos\NotifUNISKAWebChanged\NotifUNISKAWebChanged\obj\Debug\NotifUNISKAWebChanged.MainForm.resources

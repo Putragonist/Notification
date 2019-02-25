@@ -1,0 +1,14 @@
+D:\GitHub\Notification\NotifUNISKAWebChanged\bin\Debug\Notification.exe.config
+D:\GitHub\Notification\NotifUNISKAWebChanged\bin\Debug\Notification.exe
+D:\GitHub\Notification\NotifUNISKAWebChanged\bin\Debug\Notification.pdb
+D:\GitHub\Notification\NotifUNISKAWebChanged\bin\Debug\HtmlAgilityPack.dll
+D:\GitHub\Notification\NotifUNISKAWebChanged\bin\Debug\HtmlAgilityPack.pdb
+D:\GitHub\Notification\NotifUNISKAWebChanged\bin\Debug\HtmlAgilityPack.xml
+D:\GitHub\Notification\NotifUNISKAWebChanged\obj\Debug\Notification.csprojAssemblyReference.cache
+D:\GitHub\Notification\NotifUNISKAWebChanged\obj\Debug\Notification.MainForm.resources
+D:\GitHub\Notification\NotifUNISKAWebChanged\obj\Debug\Notification.Properties.Resources.resources
+D:\GitHub\Notification\NotifUNISKAWebChanged\obj\Debug\Notification.csproj.GenerateResource.cache
+D:\GitHub\Notification\NotifUNISKAWebChanged\obj\Debug\Notification.csproj.CoreCompileInputs.cache
+D:\GitHub\Notification\NotifUNISKAWebChanged\obj\Debug\Notification.csproj.CopyComplete
+D:\GitHub\Notification\NotifUNISKAWebChanged\obj\Debug\Notification.exe
+D:\GitHub\Notification\NotifUNISKAWebChanged\obj\Debug\Notification.pdb
