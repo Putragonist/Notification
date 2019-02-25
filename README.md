@@ -8,10 +8,15 @@ For this application to work  HTMLAgility Pack needed :
 How this works:
 
 First it's download web page.
+
 Search node of web you specify (id or class)
+
 Scrap all of node content.
+
 Save it using serialization.
+
 If five minutes later the content is different, it send notification to windows.
+
 
 Note :
 This doesn't work if application using generated node content (Some social media using generated node for security purpose, except if you using API it served)
